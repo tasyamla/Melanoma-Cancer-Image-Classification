@@ -55,3 +55,4 @@ The final model, after validation and testing, is deployed using Hugging Face.
 # Contact
 - [LinkedIn](https://www.linkedin.com/in/tasyamla/)
 - [Email](mailto:tsyamalia04@gmail.com)
+- [My Other Portofolio](https://drive.google.com/file/d/1IlR4obHCGwR55E_c9mcdsSrcAv2CXMRB/view)
