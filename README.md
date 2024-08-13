@@ -1,3 +1,4 @@
+
 # Melanoma Cancer Image Classification
 ---
 This repository contains the code and documentation for a machine learning project focused on classifying melanoma cancer images. The project leverages a dataset of meticulously curated images to develop a model capable of distinguishing between benign and malignant skin lesions.
@@ -6,7 +7,7 @@ This repository contains the code and documentation for a machine learning proje
 Melanoma is one of the most dangerous forms of skin cancer, known for its rapid spread and high mortality rate if not diagnosed early. The early detection of melanoma can significantly improve survival rates. This project aims to harness the power of deep learning to aid in the early diagnosis of melanoma by classifying images of skin lesions.
 
 # Dataset
-The dataset used in this project consists of 13,900 images of skin lesions, each uniformly resized to 224 x 224 pixels. [Click Here](https://www.kaggle.com/datasets/bhaveshmittal/melanoma-cancer-dataset/data)
+The dataset used in this project consists of 13,900 images of skin lesions, each uniformly resized to 224 x 224 pixels. 
 
 # Objective
 The primary objective of this project is to develop a reliable and accurate machine learning model that can classify skin lesion images into benign or malignant categories. The model should assist dermatologists and healthcare professionals in making faster and more accurate diagnoses, ultimately contributing to better patient outcomes.
@@ -45,6 +46,10 @@ The final model, after validation and testing, is deployed using Hugging Face.
 - Deep Learning
 - Data Scientist
 
+# Link
+- [Dataset](https://www.kaggle.com/datasets/bhaveshmittal/melanoma-cancer-dataset/data)
+- [Deployment](https://huggingface.co/spaces/tasyamla/Melanoma_Cancer_Classification)
+- [Model](https://drive.google.com/drive/folders/1pZraK1Z31hiKSkeRNlQKCv870ZyPraFU?usp=drive_link)
 ---
 
 # Contact
