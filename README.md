@@ -13,6 +13,7 @@ The primary objective of this project is to develop a reliable and accurate mach
 
 # Machine Learning Methods
 This project employs a variety of machine learning and deep learning techniques to achieve its goals. The analysis follows a structured approach, outlined below:
+
 **1. Data Preprocessing**
 
 - Resizing images to 224 x 224 pixels.
